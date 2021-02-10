@@ -1,0 +1,2 @@
+Tests histogram functionality where tile is a single row. Uses initialization
+for data entry.
