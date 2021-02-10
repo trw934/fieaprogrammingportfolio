@@ -1,0 +1,1 @@
+Test for histogram where tile size is 1 by 1. Uses reading from input files for data entry.
