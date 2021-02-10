@@ -1,0 +1,2 @@
+Tests histogram functionality where tile is entire image. Uses reading from
+input files for data entry.
