@@ -1,0 +1,1 @@
+Tests basic functionality of histogram with 2 bins.
