@@ -1,0 +1,1 @@
+Test for basic functionality of histogram with 4 bins.
